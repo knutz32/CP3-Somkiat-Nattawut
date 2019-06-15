@@ -1,0 +1,8 @@
+print("Welcome to Somkiat Shop")
+print("-----------------------")
+print("Apple x", 3, 30,"THB - ", 3*30, "THB")
+print("Banana x", 4, 20,"THB - ", 4*20, "THB")
+print("Durian x", 5, 180,"THB - ", 5*180, "THB")
+print("Mango x", 6, 50,"THB - ", 6*50, "THB")
+print("Total", 3*30+4*20+5*180+6*50, "THB")
+print("Thank You : Somkiat Shop")
